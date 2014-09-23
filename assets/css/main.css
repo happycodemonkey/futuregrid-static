@@ -24,6 +24,10 @@ body {
 	height: 50em;
 }
 
+.p, h3 {
+	padding: 10px;
+}
+
 .footer {
 	width: 70%;
 	height: 150px;
